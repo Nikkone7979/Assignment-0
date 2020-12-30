@@ -7,7 +7,7 @@ function countOfAllBooleansAndStrings(arr) {
       if (arr[i] === false){
           x++;
       }
-      if (typepof(arr[i]) === "string){
+      if (typepof(arr[i]) === "string"){
 	  x++;
       }  
       
